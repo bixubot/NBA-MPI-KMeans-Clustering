@@ -1,0 +1,3 @@
+mpirun -np 10 java -cp ".:/Users/bixu/357Final/opencsv.jar" edu/davidson/csc357/mpi/parallelsorting/KMeansCluster
+
+mpirun -np 1 java -cp ".:/Users/bixu/357Final/opencsv.jar" edu/davidson/csc357/mpi/parallelsorting/KMeansCluster 100 30

@@ -1,0 +1,32 @@
+#Thread vs Time
+
+K=30, Iterations=100, #Threads=10, Total Execution Time: 0.504 seconds.
+K=30, Iterations=100, #Threads=9, Total Execution Time: 0.475 seconds.
+K=30, Iterations=100, #Threads=8, Total Execution Time: 0.365 seconds.
+K=30, Iterations=100, #Threads=7, Total Execution Time: 0.327 seconds.
+K=30, Iterations=100, #Threads=6, Total Execution Time: 0.292 seconds.
+K=30, Iterations=100, #Threads=5, Total Execution Time: 0.243 seconds.
+K=30, Iterations=100, #Threads=4, Total Execution Time: 0.172 seconds.
+K=30, Iterations=100, #Threads=3, Total Execution Time: 0.141 seconds.
+K=30, Iterations=100, #Threads=2, Total Execution Time: 0.128 seconds.
+
+(I,K)
+K=15, Iterations=100, #Threads=10, Total Execution Time: 0.327 0.347 0.354 0.342 0.328 seconds.   AVG: 0.340
+K=30, Iterations=100, #Threads=10, Total Execution Time: 0.443 0.487 0.456 0.438 0.461 seconds.   AVG: 0.457
+K=60, Iterations=100, #Threads=10, Total Execution Time: 0.443 0.403 0.459 0.439 0.402 seconds.   AVG: 0.429
+K=120, Iterations=100, #Threads=10, Total Execution Time: 0.496 0.502 0.533 0.471 0.481 seconds.  AVG: 0.497
+
+K=15, Iterations=500, #Threads=10, Total Execution Time: 0.643 0.664 0.639 0.668 0.680 seconds.   AVG: 0.659
+K=30, Iterations=500, #Threads=10, Total Execution Time: 0.755 0.742 0.770 0.786 0.764 seconds.   AVG: 0.763
+K=60, Iterations=500, #Threads=10, Total Execution Time: 0.855 0.848 0.851 0.878 0.860 seconds.   AVG: 0.858
+K=120, Iterations=500, #Threads=10, Total Execution Time: 1.190 1.191 1.189 1.195 1.188 seconds.  AVG: 1.19
+
+K=15, Iterations=1000, #Threads=10, Total Execution Time: 0.919 0.913 0.904 0.911 0.927 seconds.  AVG: 0.915
+K=30, Iterations=1000, #Threads=10, Total Execution Time: 1.139 1.126 1.108 1.160 1.117 seconds.  AVG: 1.13
+K=60, Iterations=1000, #Threads=10, Total Execution Time: 1.408 1.346 1.378 1.371 1.370 seconds.  AVG: 1.37
+K=120, Iterations=1000, #Threads=10, Total Execution Time: 2.035 2.043 2.030 2.073 2.029 seconds. AVG: 2.04
+
+K=15, Iterations=2000, #Threads=10, Total Execution Time: 1.412 1.436 1.409 1.419 1.448 seconds.  AVG: 1.42
+K=30, Iterations=2000, #Threads=10, Total Execution Time: 1.808 1.861 1.860 1.810 1.823 seconds.  AVG: 1.83
+K=60, Iterations=2000, #Threads=10, Total Execution Time: 2.388 2.408 2.388 2.412 2.425 seconds.  AVG: 2.40
+K=120, Iterations=2000, #Threads=10, Total Execution Time: 3.678 3.711 3.716 3.706 3.812 seconds. AVG: 3.72

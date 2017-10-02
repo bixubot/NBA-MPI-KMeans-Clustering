@@ -1,0 +1,5 @@
+Run Spark in Terminal
+
+cd ~/Desktop/\*\*\*Career\ Thing/Eclipse-Java/Spark_NBA/src/
+javac -cp ".:/usr/local/Cellar/apache-spark/2.0.1/libexec/jars/*" Spark_KMeans.java
+java -cp ".:/usr/local/Cellar/apache-spark/2.0.1/libexec/jars/*" Spark_KMeans 100 15
