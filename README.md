@@ -6,4 +6,4 @@ The goal of this project was to experiment the implementation of parallel comput
 
 You can read more about the process in our paper: CSC357_Final_Project_MachineLearning_MPI_vs_Spark.pdf
 
-Also, please see the instruction written in README.txt for steps to set up and re-do our experiment.
+Also, please see the instruction written in README.txt for steps to set up and replicate our experiment.
